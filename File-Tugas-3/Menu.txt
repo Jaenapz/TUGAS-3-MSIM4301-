@@ -1,0 +1,11 @@
+Steak Wagyu,200000.0,Makanan,Main Course
+Steak Ayam,100000.0,Makanan,Main Course
+Steak Ikan,120000.0,Makanan,Main Course
+Spageti,75000.0,Makanan,Side Dish
+Potato Smash,30000.0,Makanan,Side Dish
+Air Mineral,50000.0,Minuman,Original
+Es Jeruk ,35000.0,Minuman,Dingin
+Es Teh Manis,25000.0,Minuman,Dingin
+Keju,10000.0,Makanan,Side Dish
+Jus Buah,15000.0,Minuman,Dingin
+Promo Nataru (Potongan 10% Jika Pembelian >= 300000),0.0,Dicount,10.0

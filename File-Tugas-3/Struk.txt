@@ -1,0 +1,8 @@
+=======Struk Pesanan==========
+ - Steak Wagyu Rp.200000.0
+ - Steak Ayam Rp.100000.0
+ - Spageti Rp.75000.0
+ - Air Mineral Rp.50000.0
+ - Es Teh Manis Rp.25000.0
+Total Pesanan : Rp.405000.0
+=========================
